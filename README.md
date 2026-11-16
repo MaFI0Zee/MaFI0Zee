@@ -1,4 +1,5 @@
-&#x20;\<div align="center">
+
+<div align="center">
 
 # Hey there! 👋
 
@@ -8,11 +9,11 @@
 
 *C# · .NET · ASP.NET Core*
 
-\<p>   \<img src="[https://skillicons.dev/icons?i=cs,dotnet,postgres,docker,githubactions,git,js,vue&theme=dark](https://skillicons.dev/icons?i=cs,dotnet,postgres,docker,githubactions,git,js,vue\&theme=dark)" /> \</p>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,docker,githubactions,git,js,vue&theme=dark" alt="Tech stack" />
 
-\</div>
+</div>
 
-\<hr color="#2ea043">
+<hr color="#2ea043">
 
 ### 👨‍💻 About Me
 
@@ -20,7 +21,7 @@ Hey! I'm a software engineer focused on **backend development with C# and .NET**
 
 I enjoy building applications, exploring different technologies and figuring out how things work under the hood.
 
-\<hr color="#2ea043">
+<hr color="#2ea043">
 
 ### 🛠️ Tech & Tools
 
@@ -31,9 +32,9 @@ I enjoy building applications, exploring different technologies and figuring out
 - **Infrastructure:** Docker, CI/CD, Git
 - **Monitoring:** Grafana, Prometheus, Loki
 
-\<hr color="#2ea043">
+<hr color="#2ea043">
 
-\<div align="center">
+<div align="center">
 
 ### ⚡ A little terminal magic
 
@@ -50,5 +51,4 @@ Building. Learning. Improving.
 $ _
 ```
 
-\</div>
-
+</div>
